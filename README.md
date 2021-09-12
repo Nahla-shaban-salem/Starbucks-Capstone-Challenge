@@ -22,3 +22,17 @@ In the second part , I build 3 model to select the best one
 6-seaborn
 
 7-sklearn
+
+# Code 
+
+Kindly use the following link, to check code: https://github.com/Nahla-shaban-salem/Starbucks-Capstone-Challenge/blob/main/Starbucks_Capstone_notebook.ipynb
+
+# Medium Blog Post
+
+Here is the Medium blog post I have written:
+
+# Acknowledgments
+
+Must give credit to udacity for all the valuable knowledge I gain it through project .
+
+
