@@ -29,7 +29,7 @@ Kindly use the following link, to check code: https://github.com/Nahla-shaban-sa
 
 # Medium Blog Post
 
-Here is the Medium blog post I have written:
+Here is the Medium blog post I have written: https://medium.com/@nahlasalem96/deep-analysis-in-starbucks-capstone-challenge-6d3cd0387d03
 
 # Acknowledgments
 
